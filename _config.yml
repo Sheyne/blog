@@ -23,6 +23,9 @@ url: "https://sheyne.com/blog" # the base hostname & protocol for your site, e.g
 twitter_username: sheyneanderson
 github_username:  sheyne
 
+author:
+  name: Sheyne
+
 # Build settings
 markdown: kramdown
 remote_theme: chesterhow/tale
