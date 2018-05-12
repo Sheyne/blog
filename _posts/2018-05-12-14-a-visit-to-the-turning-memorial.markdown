@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A visit to the Turing Memorial"
-date:   2018-05-12 13:30:00 +0100
+date:   2018-05-12 14:05:00 +0100
 ---
 
 Well, I’m not getting nearly as turned around, at least if I stay in the city center. Finding the statue took much less help from maps than usual and I didn’t keep going the wrong way in spite of them. 
