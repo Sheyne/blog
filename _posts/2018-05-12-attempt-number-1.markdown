@@ -8,7 +8,7 @@ I’m here in Manchester England for the summer. I just stopped in at the office
 
 Gripes about chargers aside, everyone has been super welcoming and the city itself is really cool. Here’s the view from my desk:
 
-￼
+￼![view from my desk]({{ site.baseurl }}/assets/office-view.jpeg)
 
 (You can see the nonsense plugs at the bottom)
 
