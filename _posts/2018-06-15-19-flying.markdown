@@ -4,8 +4,6 @@ title:  "Flying"
 date:   2019-06-15 19:43:00 +0100
 ---
 
-**I'll upload the pictures that go with this post soon. Wanted to get it up now**
-
 It's been a month since my last post, so I guess that means that I've been in Manchester 
 more than a month now. Wow the time has flown, and stagnated. Right now I'm sitting 
 in seat 34C on LZ381 to Zürich. I'm visiting Kusi and his family, my parents have been friends 
@@ -19,11 +17,11 @@ took the train down to London to represent Novacoast at the BSides security conf
 Mick and some other Novacoasters attended another conference. While in London I did get a chance 
 to take the tube
 
-![a picture of me on the tube]()
+![a picture of me on the tube](tube.jpeg)
 
 and to see Hyde park.
 
-![a picture of Hyde park]()
+![a picture of Hyde park](hyde-park.jpeg)
 
 Speaking of the train, Sean suggested I take the train to the Manchester airport. This turned into a 
 comedy of errors. The first train I was going to take was canceled due to a malfunction, the next
@@ -37,7 +35,7 @@ gone to a fair number of pubs including visiting a Murder Mystery improv show. T
 show was either randomized or audience selected which made for a terribly fun experience. The 
 bit where we as an audience were supposed to figure out the murderer was a bit lacking though. 
 
-![a picture of a sandwich and some wine]()
+![a picture of a sandwich and some wine](sandwich-wine.jpeg)
 
 I'm enjoying the fact that the airline is serving a good sandwich with proper cheese, and a side of
 complementary wine while I write this post. 
