@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thesis"
-date:   2019-06-30 14:25:00 +0100
+date:   2018-06-30 14:25:00 +0100
 ---
 
 Why am I writing this blog? Part of it is just to talk to someone. Because of the time change I sometimes end up in a weird mood and want to talk to someone but I’m not close enough to anyone out here to call them out of the blue so I contemplate putting a post on the blog. Given how rarely I follow through on that though it’s not enough motivation to keep the blog up. I like the idea of journaling but I haven’t yet found enough motivation to follow though on that. It’s just not public and my best motivation seems to come from showing off—well that or computers, I seem to inanely like them. 
@@ -13,7 +13,7 @@ How much do I want to talk about going out and getting drunk, or hitting on girl
 For the matter at hand, who is the audience of this blog, I think I’m settling on Yenna (see above). I mean I think I’m writing this explicitly to Juli, but if I scratch a sentence or topic it’s mostly due to contemplating my wonderful German Mother (Deutchmom?). So I can go into topics I wouldn’t want to discuss with my grandma but I’ll still avoid things I might only talk to my mom about. 
 
 Lasagna intermezzo 
-![Lasagna](lasagna.jpeg)
+![Lasagna]({{site.baseurl}}/assets/lasagna.jpeg)
 
 
 I’m sitting here in an Italian restaurant which lives up to my expectations of Mancunian cuisine (or lack thereof). There are some real gems in this city, but by and large English cooking leaves something to be desired. I don’t like the poke place, a couple of ramen places, the ridiculous burger place, and Witherspoon’s (an English staple) was both delicious and cheap. 
