@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recapping part 2: UK issues"
-date:   2018-08-08 15:24:00 +0100
+date:   2018-10-25 15:52:00 +0100
 ---
 
 Here's my obligatory, "I'm sitting in an airport finally updating my blog heading": I'm
