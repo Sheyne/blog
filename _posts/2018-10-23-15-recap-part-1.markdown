@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recapping part 1: Homeless, Kansas, and Shoe's Wedding"
-date:   2018-08-08 15:24:00 +0100
+date:   2018-10-23 15:24:00 +0100
 ---
 
 My last few months have been a little more complicated than usual. Rather than
@@ -47,7 +47,7 @@ after discovering that the Flow Rider in Ogden was incredibly crowded
 while they were still in town). The second choice was to try to float in tubes down the
 Provo River. something we missed by a couple minutes. It was still a really cool experience.
 
-![Driving down to Southern Utah]({{site.baseurl}}/assets/driving-down-to-southern-utah.jpg)
+![Driving down to Southern Utah]({{site.baseurl}}/assets/driving-to-southern-utah.jpg)
 ![Hiking the Zion Narrows]({{site.baseurl}}/assets/hiking-the-narrows.jpg)
 ![After hike beers!]({{site.baseurl}}/assets/after-hike-beers.jpg)
 ![Bridal Veil Falls in the Provo Canyon]({{site.baseurl}}/assets/bridal-veil-falls.jpg)
