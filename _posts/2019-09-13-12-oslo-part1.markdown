@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Oslo Part 1"
+date:   2019-09-13 12:01:00 +0200
+---
+
+I'm sitting on a train with Sean and Delia. We just flew into Torp airport and are
+taking the train to Oslo. We're here in Norway for a quick weekend trip and I'm sure
+I'll have plenty of pretty pictures to update but the end of it.
+
+My plan for next week is to fly to Nice on Wednesday evening. I'll stay there a day
+or two then head to Italy and up into Switzerland, flying from Geneva to Liverpool
+on the 26th and taking a train back into Manchester to meet back up with Sean and Delia.
+That weekend we'll take the train up to Edinburgh, where I might just see Andrew from
+Santa Barbara.
+
+The past couple weeks I've been staying with them at their lovely apartment in
+Manchester. Last weekend we took a train to the city of Chester. Its a town that Sean
+used to go to a lot as a kid. The whole of the city center (or at least the touristy
+bit) was relatively car free.
+
+![Denisa, Melvin, Sean, and Delia standing on a balcony looking down on a Chester main street]({{site.baseurl}}/assets/chester.jpg)
+
+While we were in Chester, we visited the cathedral.
+
+![Outside view of the cathedral in Chester]({{site.baseurl}}/assets/chester-cathedral.jpg)
+
+![The stained glass window at the cathedral]({{site.baseurl}}/assets/stained-glass-chester.jpg)
+
+They were doing a fundraiser to make repairs on the cathedral, and I thought their method
+was rather clever. They were building a scale model of the cathedral, and you could add the
+next brick for £1. Here's a picture of that model looking fairly complete, but apparently
+around 100,000 bricks to go.
+
+![Lego model of the chester cathedral]({{site.baseurl}}/assets/lego-cathedral.jpg)
+
+Later on we went to "Church", a bar in Chester built in an old church.
+
+!["Church" a bar in an old church]({{site.baseurl}}/assets/church-bar-chester.jpg)
