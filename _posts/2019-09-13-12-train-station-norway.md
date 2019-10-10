@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Norway, Redux"
-date:   2019-09-20 09:26:38 +0000
+date:   2019-09-13 12:48:17 +0200
 ---
 
 To begin with, let me tell a story of my idea. I'd like to take all the photos I've favorited in the
