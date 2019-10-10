@@ -34,23 +34,22 @@ def get_date_taken(path):
         taken = time.gmtime(os.path.getmtime(image_name))
         date_str_time = time.strftime("%Y:%m:%d %H:%M:%S", taken)
         offset = "+00:00"
-
+    
     date_s, time_s = date_str_time.split(" ")
 
     return [date_s.replace(":", "-"), time_s, offset.replace(":", "")]
 
 for image_name in glob("source-images/*"):
     title = image_name.split("/")[1].rsplit(".", 2)[0]
-    print(image_name)
     date_s, time_s, offset = get_date_taken(image_name)
-
+    
     fname_time = f"{date_s}-{time_s.split(':')[0]}"
-
+    
     with open(time.strftime(f"markdown/{fname_time}-{title}.md", taken), "w") as file:
         file.write(f"""---
 layout: post
 title:  "{title}"
-date:   {date_str_time}
+date:   {date_s} {time_s} {offset}
 ---
 
 ![{title}]({{{{site.baseurl}}}}/assets/{image_name.split("/")[1]})
