@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What we did in Oslo"
-date:   2019-09-20 09:26:38 +0000
+date:   2019-09-14 20:03:47 +0200
 ---
 
 So while Sean, Delia, and I were in Norway, on the first night, we walked around the city.
