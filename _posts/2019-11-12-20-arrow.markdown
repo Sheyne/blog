@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "Arrow"
+date:   2019-11-12 20:51:00 -0800
+---
+
+Fair warning: what follows is pretty far from useful. I do hope it's interesting.
+I've just got home from eating dinner and while I was there, I was reading about
+Arrow's Impossibility theorem and from there Gibbard's Theorem. The theorems are
+interesting on their own merit, but I thought I'd use them as a lens to look at
+why I think math is so interesting.
+
+Arrow's impossibility theorem is a statement in Social Choice Theory, that is the
+theory of voting, but it's also a statement in mathematics. This makes it an
+interesting example, because it doesn't look like math the same way arithmetic or
+high-school algebra do. What it states is this. Given a ranked-choice voting
+system, there's no way one of the following isn't violated:
+
+1. If every voter prefers Alice over Bob, then Alice will win the election
+2. If every voters preference between Alice and Bob doesn't change, then the
+   relative outcome of Alice and Bob shouldn't change (even if the preference
+   of the group between Alice and Joe, or Sally do change)
+3. There's no "dictator" who solely determines the election
+
+[Wikipedia explains it](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem)
+much better than I have here. The core idea I want to get through is that this
+statement doesn't really look like mathematics, and that it doesn't talk about a
+specific voting system. Pretty much all ways we count votes use "ranked choice":
+you can rank your favorites from some list of options. The most common system,
+first past the post, is what we use in the US. You get to select one favorite
+and whichever candidate gets the most votes wins. There are "better" systems, most
+which have your rank the candidates from most preferred to least preferred. Arrow's
+theorem supersedes a bunch of weaker results wherein each system is classed as having
+various properties such as the
+[Condorcet Criterion](https://en.wikipedia.org/wiki/Condorcet_criterion) ("1." above)
+and the [Consistency Criterion](https://en.wikipedia.org/wiki/Consistency_criterion).
+I believe that historically we tried to define a bunch of properties a voting system
+could have and then took specific voting methods and tried to show that they had all
+the desirable fairness properties. Arrow's Impossibility Theorem then ruins all that
+but showing that two such properties are completely incompatible. No matter how
+clever the voting system you concoct, if it uses ranked choice, it will be missing at
+least one of them. [Gibbard's Theorem](https://en.wikipedia.org/wiki/Gibbard%27s_theorem)
+takes this a step further and proves that one of the following must be true, for
+**any** deterministic process of collective decision:
+
+1. The process is dictatorial, i.e. there exists a distinguished agent who can impose
+    the outcome
+2. The process limits the possible outcomes to two options only
+3. The process encourages agents to think strategically: once an agent has identified
+   their preferences, they have no action at their disposal that would best defend their
+   opinions in any situation
+
+This applies to more than just "ranked choice". I'm having a hard time finding a
+citation, but while I was reading I came across the claim that Gibbard himself wanted to
+clarify that this doesn't mean most elections will go wrong, just that all electoral
+systems have the potential to go wrong.
+
+The result is very similar to a result in
+Computability theory. People proved all kinds of things that "effective processes"
+(now commonly thought of as computer programs) could not determine. There is no computer
+program that will decide if another computer program will run forever or eventually stop.
+And the [Church-Turing Thesis](https://en.wikipedia.org/wiki/Church–Turing_thesis) says
+that this applies to human brains too. I can tell if some computer programs stop, I can
+tell if others will run forever, but there will always be some program for which I can't
+decide. For decades we came of with results like this, proving this or that which couldn't
+be decided about computer programs. Then, in the 1951, Gordon Rice goes and proves that
+[you can't say anything nontrivial](https://en.wikipedia.org/wiki/Rice%27s_theorem) in
+general about various computer programs. Oh sure, you can talk about specific properties
+of specific programs, and you can talk about things that are true of all programs, but
+you can't divide all programs into two groups based on some meaningful attribute of the
+way the program behaves. This is a really disappointing result until you consider that
+we can still talk about the properties of a lot of interesting programs (some might say
+all). This is why the Impossibility Theorem resonated with me so much. In a way it doesn't
+say anything at all. For real-world situations, neither Arrow's nor Rice's Theorems
+matter. We can still have electoral processes and compilers, linters, and all the other
+tools programmers to do their jobs. In a way it is almost nice, with perfection provably
+unattainable, we can always improve our systems.
+
+Okay, so what does all this have to do with my thoughts on studying math? This is math.
+This is the math that I find interesting. This doesn't really have anything to do with
+numbers (although the proofs of all the above results surely involve them to some extent).
+This has everything to do with problem solving. Learning math (much like learning philosophy
+English, or Engineering) means learning to take something complicated and break it into
+smaller pieces to understand them better. Math trains your mind to look at a problem,
+break it into smaller problems which you can solve individually. It also forces you
+to state your assumptions. Gibbards Theorem holds for any "deterministic process of
+collective decision" where each of those words has a very precise meaning.
