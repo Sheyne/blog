@@ -27,3 +27,11 @@ I will have the final approval. Wish me luck.
 
 Brody's wedding was gorgeous and fun. Seeing so many friends
 (most at a safe distance) has been great as well. 
+
+![]({{site.baseurl}}/assets/IMG_20200927_122718.jpg)
+
+![]({{site.baseurl}}/assets/PXL_20200929_011324322.jpg)
+
+![]({{site.baseurl}}/assets/IMG_20200927_175625.jpg)
+
+![]({{site.baseurl}}/assets/IMG_20200925_192342.jpg)
