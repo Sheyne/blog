@@ -1,56 +1,8 @@
 ---
 layout: post
-title:  "Italy and the Sublime"
+title:  "Landing in Rome"
 date:   2020-10-28 12:26:00 +0100
 ---
-
-![Sheyne and Nelly on the plane on their way to rome]({{site.baseurl}}/assets/takeoff-for-rome.jpg)
-
-Nelly and I spent last week in Italy. It was a continuous rush of adventure
-facilitated partially by renting a car. It all started minutes to the end of
-Monday when we landed in Rome. There we were, knowing we could book a car but
-unable to actually locate the rental facilities. As we struggled to follow the
-signs to the rental place I began to rush which contrasted with Nelly's
-confidence that everything would work out fine.
-
-![Sheyne standing in front of the Trevi Fountain]({{site.baseurl}}/assets/trevi-fountain.jpg)
-
-After searching for a while we did find the rental facilities. Despite brief
-concern that all the rental desks were closed, we found one tucked away with a
-woman still at the desk. She had one car left and discounted it for us because
-it was a relatively nice and our only option. While significantly more than the
-advertised rates on the internet it wasn't too expensive. Be warned, they're all
-lies. The car rental so exceptionally make the trip that it was well worth it.
-Plus it was fun to drive the nicer car. It had plenty of power, a nice
-difference from my earlier cheapest-available-option selection method in the UK.
-
-
-![Sheyne driving the car]({{site.baseurl}}/assets/driving-in-italy.jpg)
-
-While we were booking the car we tried to communicate with our hostel in Rome.
-They said midnight would be fine. Unfortunately, driving into Rome took longer
-than we expected and we called a pretty pissed off hostel host at about 01:30a.
-Apparently we were the second group of people to arrive very late (or very early
-the next day). After checking in, we decided to take advantage of the bright
-empty city night and visited the Fontana di Trevi and the Villa de Medici. What
-an experience this was. Rome was empty. We took in the night, the light, the
-statues, the fountain--aside from the two of us the only humans we saw were a
-couple cops sitting in a car near the fountain. At the time, I didn't realize
-what a privilege this was, knowing not the significance of the fountain nor how
-crowded it would be in daylight. I would find out a week later when we returned
-to Rome. 
-
-![Nelly in front of the Plaza de Espana]({{site.baseurl}}/assets/nelly-in-front-of-the-plaza-de-espana.jpg)
-
-![Nelly bringing me food at the mercado centrale]({{site.baseurl}}/assets/mercado-centrale.jpg)
-
-The next day I spent a couple hours struggling trying to park in Rome. At the
-time I was very new to Italy's laissez-faire attitude towards parking (and
-driving in general). Finally we parked in a parking structure and went to the
-Mercato Centrale--an indoor market with lots of food an coffee. Here Nelly took
-her class and I went to see some parks, some churches, and the Colosseum.
-
-![Some sights I saw in Rome]({{site.baseurl}}/assets/rome-collage-1.jpg)
 
 Afterwards we drove up into the mountains, to a small town called Mascioni. Here
 we stayed at the nicest little hotel (Locanda Mausonium) with a very sweet host.
