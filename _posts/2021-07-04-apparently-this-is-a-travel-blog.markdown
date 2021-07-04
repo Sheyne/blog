@@ -37,7 +37,7 @@ show off some pictures.
 
 ![Hiking in Joshua Tree]({{site.baseurl}}/assets/joshua-tree.gif)
 
-![Happy Birthday Jensen]({{site.baseurl}}/assets/happy-birthday-jensen.gif)
+![Happy Birthday Jensen]({{site.baseurl}}/assets/happy-birthday-jensen.jpg)
 
 ![Dave visiting Santa Barbara]({{site.baseurl}}/assets/dave-visiting-santa-barbara.jpg)
 
