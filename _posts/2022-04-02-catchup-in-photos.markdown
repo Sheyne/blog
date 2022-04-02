@@ -67,7 +67,7 @@ Then Meghan, Nick, and Lily made it to Utah and we had Friendsgiving.
 
 Merry Christmas from the Burdandemselskis!
 
-![Merry Christmas]({{site.baseurl}}/assets/merry-chistmas.jpg)
+![Merry Christmas]({{site.baseurl}}/assets/merry-christmas.jpg)
 
 We with to Sun Valley and Lily met Alagna.
 
