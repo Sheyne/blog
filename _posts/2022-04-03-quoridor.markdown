@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Quoridor"
+date:   2022-04-03
+---
+
+Sometime last year, while I was staying with Andrew and his family, he and I dug
+out some of their old board games and we found one called Quoridor. Initially I
+was skeptical, but once he explained the rules I was hooked. The premise is so
+simple: each player starts on one side of the board and they try to get to the
+other. On your turn you may use 1 of your 10 walls to change the board or move
+your token. Barring some rather intuitive rules about how the tokens jump over
+each other if they get to be next to each other, there is only one more rule:
+you cannot add a wall such that either token cannot reach *their* goal.
+
+What's great about this game is that its a "perfect knowledge game" like Chess.
+What this means is that on your turn you don't have any information about the
+board that your opponent doesn't also have. Its a true battle of wits. I got
+super hooked on the idea of building an AI for the game. I had been reading
+about AlphaZero (Deep Mind's Algorithm that can beat the best humans at several
+other perfect knowledge games) and I wanted to see if I could apply it to
+Quoridor.
+
+The first thing I needed to do was implement all of the logic of the game as
+code. I did this in Rust because I'm really excited about the programming
+language, its very performant, and I got caught up in the hype. While I was
+visiting my sister in CT I wanted to show my mom what I was working on and the
+primitive [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface) I had
+made to test the game myself just wasn't making sense to her. I compiled my Rust
+code to WASM and implemented a Web UI.
+
+<iframe src="https://sheyne.com/quoridor/#ai" />
+
+The above game should be playable embedded straight into this blog post.
