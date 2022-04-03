@@ -29,6 +29,19 @@ primitive [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface) I had
 made to test the game myself just wasn't making sense to her. I compiled my Rust
 code to WASM and implemented a Web UI.
 
-<iframe src="https://sheyne.com/quoridor/#ai" />
+<iframe src="https://sheyne.com/quoridor/#ai" width="100%" style="aspect-ratio: 1/1; border: 1px solid black;" />
 
-The above game should be playable embedded straight into this blog post.
+The above game should be playable embedded straight into this blog post. You can
+move your token by clicking on the a square adjacent to it (the allowed squares
+should be highlighted in a lighter color). You can add a wall by clicking on the
+spaces between the squares. Walls are two squares long.
+
+While I was working I got Daniel Amsel obsessed as well, much to Alissa's
+chagrin. We spent many hours not getting Alpha Zero working with it and he
+created a re-implementation of the game in Python. Many CPU/GPU hours were
+burned trying to get the algorithm to train before we finally gave up. What you
+see above is using alpha-beta pruning (using a library called
+[Rubot](https://docs.rs/rubot/latest/rubot/)). In spite of these difficulties I
+think we both had a grand old time.
+
+Until next time, Sheyne.
