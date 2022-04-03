@@ -31,10 +31,11 @@ code to WASM and implemented a Web UI.
 
 <iframe src="https://sheyne.com/quoridor/#ai" width="100%" style="aspect-ratio: 1/1; border: 1px solid black;"></iframe>
 
-The above game should be playable embedded straight into this blog post. You can
-move your token by clicking on the a square adjacent to it (the allowed squares
-should be highlighted in a lighter color). You can add a wall by clicking on the
-spaces between the squares. Walls are two squares long.
+The above game should be playable embedded straight into this blog post. I
+apologize that its pretty-much unplayable on mobile. You can move your token by
+clicking on the a square adjacent to it (the allowed squares should be
+highlighted in a lighter color). You can add a wall by clicking on the spaces
+between the squares. Walls are two squares long.
 
 While I was working I got Daniel Amsel obsessed as well, much to Alissa's
 chagrin. We spent many hours not getting Alpha Zero working with it and he
