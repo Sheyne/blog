@@ -29,7 +29,7 @@ primitive [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface) I had
 made to test the game myself just wasn't making sense to her. I compiled my Rust
 code to WASM and implemented a Web UI.
 
-<iframe src="https://sheyne.com/quoridor/#ai" width="100%" style="aspect-ratio: 1/1; border: 1px solid black;" />
+<iframe src="https://sheyne.com/quoridor/#ai" width="100%" style="aspect-ratio: 1/1; border: 1px solid black;"></iframe>
 
 The above game should be playable embedded straight into this blog post. You can
 move your token by clicking on the a square adjacent to it (the allowed squares
