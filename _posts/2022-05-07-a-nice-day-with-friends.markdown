@@ -11,7 +11,7 @@ with Lily on my lap and Mei got a cool time-lapse of Daniel, Alissa, and the
 pink clouds. Strangely I wasn't closest to the cliff, but I was freaking my
 niece's mother out enough as it was.
 
-<video controls="" autoplay="" src="{{site.baseurl}}/assets/daniel-and-alissa-and-the-sun.mov" type="video/quicktime"></video>
+<video controls="" autoplay="" style="width: 100%;" src="{{site.baseurl}}/assets/daniel-and-alissa-and-the-sun.mov" type="video/quicktime"></video>
 
 Later we drove up to Poli Poli and played disk golf and hiked around.
 
