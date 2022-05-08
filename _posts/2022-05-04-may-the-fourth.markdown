@@ -11,7 +11,7 @@ wont be there when I first arrive, but they'll be there soon after.
 
 My last few months have held a lot of change. I switched jobs and am now working
 at Lucid Software helping to make visual collaboration software (most famously
-Lucid Chart). I am really excited to get into this job as it will be a big
+Lucidchart). I am really excited to get into this job as it will be a big
 change of pace for me, going from being often the sole developer on several
 projects to being one of many working towards one cohesive whole. I specifically
 am working on something we call the Data Platform that handles communicating
