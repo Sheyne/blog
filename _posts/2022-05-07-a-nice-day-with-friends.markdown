@@ -11,6 +11,4 @@ with Lily on my lap and Mei got a cool time-lapse of Daniel, Alissa, and the
 pink clouds. Strangely I wasn't closest to the cliff, but I was freaking my
 niece's mother out enough as it was.
 
-<video width="320" height="240" controls>
-  <source src="{{site.baseurl}}/assets/daniel-and-alissa-and-the-sun.mov" type="video/h264" />
-</video>
+<video controls="" autoplay="" src="https://sheyne.com/blog/assets/daniel-and-alissa-and-the-sun.mov" type="video/quicktime"></video>
