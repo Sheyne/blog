@@ -8,7 +8,7 @@ The last couple weeks were really great. Mattie was out here for 10 days and we
 worked from 5:30 - 1ish pretty much every day. After that we were free to
 explore the island. We had a great many adventures, from surfing with my dad to
 lounging in luxury with Daniel and Alissa to hiking with my mom to getting stuck
-in a closed off cave with Nick. All though we spent time with Lily and Meghan.
+in a closed off cave with Nick. All through we spent time with Lily and Meghan.
 
 It all started off a few days before Mattie got here. For Mothers' Day I went to
 go see one of my mom's favorite bands (Kanekoa) on the South Shore. Before going
