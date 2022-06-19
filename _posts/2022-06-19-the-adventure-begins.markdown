@@ -82,7 +82,7 @@ to finish the route.
 
 ![Obligatory picture of me in some wildflowers on the way to Sinocranium]({{site.baseurl}}/assets/flower-power.jpeg)
 
-<video controls="" autoplay="" style="width: 100%;" src="{{site.baseurl}}/assets/felspfeiler.mp4" type="video/quicktime"></video>
+<video controls="" autoplay="" style="width: 100%;" src="{{site.baseurl}}/assets/felspfeiler.mov" type="video/quicktime"></video>
 
 | Route                | Grade | Pitches | Date            | Area              |
 | -------------------- | ----- | ------- | --------------- | ----------------- |
