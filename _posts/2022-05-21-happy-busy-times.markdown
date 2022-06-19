@@ -8,7 +8,7 @@ The last couple weeks were really great. Mattie was out here for 10 days and we
 worked from 5:30 - 1ish pretty much every day. After that we were free to
 explore the island. We had a great many adventures, from surfing with my dad to
 lounging in luxury with Daniel and Alissa to hiking with my mom to getting stuck
-in a closed off cave with Nick. All though we spent time with Lily and Meghan.
+in a closed off cave with Nick. All through we spent time with Lily and Meghan.
 
 It all started off a few days before Mattie got here. For Mothers' Day I went to
 go see one of my mom's favorite bands (Kanekoa) on the South Shore. Before going
@@ -133,11 +133,11 @@ house. We checked it out with my Aunt River.
 ![The flower of the Lilikoi vine]({{site.baseurl}}/assets/lilikoi-flower.jpeg)
 ![River playing with Lily in a stream]({{site.baseurl}}/assets/river-lily-hike.jpeg)
 
-Some my mom's best friends, Mike and Allie, flew out to celebrate their
-honeymoon and to see my mom. We had a nice picnic with the whole gang and played
+Some my mom's best friends, Mike and Ali, flew out to celebrate their
+anniversary and to see my mom. We had a nice picnic with the whole gang and played
 Bocce at the beach.
 
-![Picnic with Mike, Allie, River, Paige, Meghan, Lily, and my mom, although I think my mom took the picture, so she's not in it]({{site.baseurl}}/assets/kihei-picnic.jpeg)
+![Picnic with Mike, Ali, River, Paige, Meghan, Lily, and my mom, although I think my mom took the picture, so she's not in it]({{site.baseurl}}/assets/kihei-picnic.jpeg)
 ![In Kihei, I toss Lily in the air]({{site.baseurl}}/assets/baby-toss.jpeg)
 
 Until next time,
