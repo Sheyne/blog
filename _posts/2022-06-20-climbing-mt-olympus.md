@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022-06-20"
+title:  "Climbing Mount Olympus"
 date:   2022-06-20
 ---
 

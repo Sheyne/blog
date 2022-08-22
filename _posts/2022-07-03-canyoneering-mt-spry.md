@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022-07-03"
+title:  "Canyoneering Spry Canyon"
 date:   2022-07-03
 ---
 

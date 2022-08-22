@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022-07-12"
+title:  "Climbing Arlington Peak"
 date:   2022-07-12
 ---
 

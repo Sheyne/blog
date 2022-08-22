@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022-07-04"
+title:  "Party in Vegas!"
 date:   2022-07-04
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022-06-18"
+title:  "Climbing Mount Ogden"
 date:   2022-06-18
 ---
 
