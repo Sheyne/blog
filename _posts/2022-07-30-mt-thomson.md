@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022-07-30"
+title:  "Climbing Mount Thomson"
 date:   2022-07-30
 ---
 
